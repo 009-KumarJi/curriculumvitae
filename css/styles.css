@@ -1,0 +1,124 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'VT323', sans-serif;
+    font-size: 2em;
+}
+h1{
+    color: #66bfbf;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Space Mono', sans-serif;
+}
+h2{
+    font-weight: normal;
+    color: #66bfbf;
+    font-size: 2.5rem;
+    font-family: 'Ubuntu Mono', sans-serif;
+}
+h3 {
+    color: #11999e;
+    font-family: 'Ubuntu Mono', sans-serif;
+}
+.sign{
+    font-family: "Ubuntu Mono", sans-serif;
+}
+.pro{
+    text-decoration: underline;
+}
+.top-container{
+    background-color: #E4F9F5;
+    padding-top: 100px;
+    position: relative;
+}
+.bottom-cloud{
+    position: absolute;
+        bottom: 300px;
+        left: 300px;
+}
+.top-cloud{
+    position: absolute;
+        right: 300px;
+        top: 50px;
+}
+.my-img{
+    border-radius: 50%;
+    height: 200px;
+    padding-top: 100px;
+}
+.java{
+    height: 40px;
+}
+.foot{
+    width: 30px;
+    height: 30px;
+    padding: 20px 10px 20px 0;
+}
+.skills{
+    margin: 0 auto;
+    padding: 10px;
+}
+.skill-img{
+    height: 7%;
+    width: 7%;
+    background-color: white;
+    padding-left: 10px;
+}
+.skill-table{
+    text-align: left;
+}
+.problem{
+    float: left;
+    margin-right: 20px;
+}
+.skill-row{
+    padding-top: 30px;
+}
+.tech-concepts{
+    text-align: left;
+    width: fit-content;
+    margin: 0 auto;
+    padding-left: 150px;
+}
+.skill-heads-odd{
+    font-weight: normal;
+    float: left;
+    padding: 20px 0;
+    position: absolute;
+        left: 10%;
+    margin: 0 auto 20px auto;
+}
+.skill-heads-even{
+    font-weight: normal;
+    float: right;
+    padding: 20px 0;
+    position: absolute;
+        left: 70%;
+    margin: 20px auto 20px auto;
+}
+.img-div-even{
+    margin: 0 auto 50px auto;
+}
+.img-div-odd{
+    margin: 0 auto 50px auto;
+}
+#database{
+    padding-top: 0;
+}
+#tech-head{
+    padding-top: 10px;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #aabfbb;
+    border-width: 15px;
+    width: 5%;
+}
+.profile{
+    padding-bottom: 10px;
+}
+.contact-me{
+    padding-top: 10px;
+}
